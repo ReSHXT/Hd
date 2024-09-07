@@ -1,6 +1,6 @@
 local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")
-local correctLoaderURL = "https://raw.githubusercontent.com/Ezjq/mm2/main/Protected_5237448591608829.txt"
+local correctLoaderURL = "https://raw.githubusercontent.com/ReSHXT/Hd/main/kilswetch.lua"
 local exploitActive = true
 local request = http_request or request or HttpPost or syn.request
 local timeOutLimit = 5 -- Time limit for time bomb logic
